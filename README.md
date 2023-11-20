@@ -8,13 +8,14 @@
 
 
 
-##파일 업다운방법
+## 파일 업다운방법
 commit, push, fatch, pull
 
-##commit version 삭제
+## commit version 삭제
 
-##버전관리
+## 버전관리
 
-##깃 파일
-Readme
-gitignore
+## 깃 파일
+## Readme 작성법
+
+## gitignore
